@@ -32,7 +32,7 @@ flowchart LR
     J["Jellyfin (VM)<br/>GPU passthrough"]
     D2["Pi-hole + Unbound (LXC)<br/>secondary DNS"]
   end
-  joker -- metrics and logs --> A
+  M -- metrics and logs --> A
   D1 -. config replicated .-> D2
   A -- alerts via ntfy --> P["my phone"]
 ```
