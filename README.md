@@ -37,7 +37,7 @@ I am rebuilding the lab from bare metal, this time from one repo that builds it 
 
 ---
 
-## `$ git log --first-build`
+## `$ git show v1`
 
 The first build was a two-node Proxmox cluster running Docker Compose stacks: Caddy with Let's Encrypt over Cloudflare DNS-01, Authentik SSO over OIDC, Gitea, Vaultwarden, Prometheus, Grafana, Loki, and Alloy, with Alertmanager paging my phone through ntfy. DNS ran on Pi-hole + Unbound on both nodes, and media ran an arr stack over WireGuard plus Jellyfin.
 
