@@ -4,10 +4,12 @@
 
 `junior linux sysadmin` · `homelabber` · `northern virginia`
 
-[![Site](https://img.shields.io/badge/bmoyo.dev-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7)](https://bmoyo.dev)
-[![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-1a1b26?style=for-the-badge&labelColor=c8102e)](https://www.comptia.org/certifications/linux)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-1a1b26?style=for-the-badge&labelColor=c8102e)](https://www.comptia.org/certifications/security)
-[![Lab](https://img.shields.io/badge/lab-rebuilding-1a1b26?style=for-the-badge&logo=proxmox&logoColor=e0af68)](#-systemctl-status-homelab)
+[![Site](https://img.shields.io/badge/bmoyo.dev-b2ed91?style=for-the-badge&logo=googlechrome&logoColor=101415)](https://bmoyo.dev)
+[![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-b2ed91?style=for-the-badge&labelColor=1d2526)](https://www.credly.com/badges/ce0b6b3d-195a-48b9-aad5-825786be2b58/public_url)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-b2ed91?style=for-the-badge&labelColor=1d2526)](https://www.credly.com/badges/0f0c2be2-a5be-4e9e-8fc5-0abd2aa1af09/public_url)
+[![Lab](https://img.shields.io/badge/lab-rebuilding-354244?style=for-the-badge&labelColor=1d2526&logo=proxmox&logoColor=b2ed91)](#-systemctl-status-homelab)
+
+**Open to work** · Linux systems administration, IT support, and infrastructure roles · [jobs@bmoyo.dev](mailto:jobs@bmoyo.dev)
 
 </div>
 
@@ -47,7 +49,7 @@ It lives on, archived, at **[bmoyo413/homelab](https://github.com/bmoyo413/homel
 
 ## `$ ls ~/toolbox`
 
-| | |
+| area | tools |
 |---|---|
 | **servers** | RHEL, Rocky, CentOS, Ubuntu, Debian, Proxmox VE |
 | **automation** | Ansible, Bash, Git, cron |
